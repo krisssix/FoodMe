@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FoodMe</string>
+    <string name="back">Back</string>
+
+    <string name="place_detail">Place Detail</string>
+
+    <!--Errors-->
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="list_failed">Failed to load the list</string>
+    <string name="detail_failed">Failed to load the detail</string>
+    <string name="missing_location_perm">Missing location permission</string>
+
+    <string name="save">Save</string>
+    <string name="collect">Collect</string>
+    <string name="collected">Collected</string>
+    <string name="track">Track</string>
+    <string name="tracking_screen">Tracking Screen</string>
+
+    <!--Filter screen-->
+    <string name="filters">Filters</string>
+    <string name="radius">Radius</string>
+    <string name="limit">Limit</string>
+
+    <!--App Intro - Onboarding Screen-->
+    <string name="intro1T">Welcome to FoodMe.</string>
+    <string name="intro1D">Craving a bite? \n
+        You\'ve Come to the Perfect Spot!\n
+        Simply Swipe for a tasty delight!
+    </string>
+
+    <string name="intro2T">Discover nearby foods &amp; restaurants</string>
+    <string name="intro2D">Try out new restaurants right by your side \n
+                            &amp; discover delicious food.</string>
+
+    <string name="intro3T">Redeem exclusive coupons</string>
+    <string name="intro3D">Scan your receipts\n&amp; get exclusive offers!</string>
+
+    <string name="intro4T">Camera Permissions</string>
+    <string name="intro4D">We need you to grant camera permission\nfor proper functioning of the app.</string>
+
+    <string name="intro5T">We\'re done!</string>
+    <string name="intro5D">Have fun using this app.</string>
+
+</resources>

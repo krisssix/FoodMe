@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodMe</string>
+
+
+    <string name="back">Zpět</string>
+    <string name="place_detail">Detail místa</string>
+
+    <!--Errory-->
+    <string name="no_internet_connection">Chybí připojení k internetu</string>
+    <string name="list_failed">Seznam se nepodařilo načíst</string>
+    <string name="detail_failed">Detail se nepodařilo načíst</string>
+    <string name="missing_location_perm">Chybí oprávnění k poloze</string>
+
+
+    <string name="save">Uložit</string>
+    <string name="collect">Sebrat</string>
+    <string name="collected">Sebráno</string>
+    <string name="track">Sledovat</string>
+    <string name="tracking_screen">Obrazovka sledování</string>
+
+
+    <string name="filters">Filtry</string>
+    <string name="radius">Rádius</string>
+    <string name="limit">Limit</string>
+
+
+    Here are the translations of your strings into Czech:
+
+    <string name="intro1T">Vítejte ve FoodMe.</string>
+    <string name="intro1D">Máte hlad a nevíte kam jít?\n Jste na správném místě!\n Swipeujte a získáte mnoho nápadů!</string>
+
+    <string name="intro2T">Objevte nedaleká jídla a restaurace</string>
+    <string name="intro2D">Vyzkoušejte nové restaurace vedle Vás a objevte chutné jídlo.</string>
+
+    <string name="intro3T">Uplatněte exkluzivní kupóny</string>
+    <string name="intro3D">Skenováním účtenek získáváte exkluzivní nabídky!</string>
+
+    <string name="intro4T">Povolení k použití kamery</string>
+    <string name="intro4D">Potřebujeme, abyste udělili povolení k použití kamery pro správnou funkci aplikace.</string>
+
+    <string name="intro5T">Jsme hotovi!</string>
+    <string name="intro5D">Ať Vám chutná.</string>
+
+
+</resources>
